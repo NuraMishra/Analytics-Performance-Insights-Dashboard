@@ -41,7 +41,7 @@ Marketing campaigns across multiple partners and regions are generating high spe
 
 ##  Dashboard Preview
 
-(Add screenshot here)
+https://github.com/NuraMishra/Analytics-Performance-Insights-Dashboard/blob/main/Dashbord.png
 
 ##  Live Dashboard
 
